@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior computer science major at Georgia State University and a full-time employee at Coyote Logistics. 
+My name is Dinah (dye-nah) and I'm a senior computer science major at Georgia State University. I also work full-time at Coyote Logistics in Atlanta. 
 
 🔭 Currently working on creating a programming language called Liyah  
 🌱 Learning data science, AI, programming language concepts, and software engineering principles  
