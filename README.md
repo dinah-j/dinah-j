@@ -1,4 +1,4 @@
-### Hi there 👋
+### :sparkles: Welcome :sparkles:
 
 My name is Dinah (dye-nah) and I'm a senior computer science major at Georgia State University. I also work full-time at Coyote Logistics in Atlanta. 
 
