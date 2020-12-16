@@ -4,9 +4,7 @@ My name is Dinah (dye-nah) and I'm a senior computer science major at Georgia St
 
 :computer: Currently working on creating a Harry Potter themed programming language from scratch  
 
-:books: Learning data science, AI, programming language concepts, and software engineering principles 
-
-👯 Looking to contribute to open source projects  
+:books: Studying mobile app development & machine learning
 
 :grey_exclamation: Looking for help with improving my code style and building my portfolio 
 
